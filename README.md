@@ -20,6 +20,8 @@ This project documents the process of setting up a local PHP development environ
 - Created a folder named `my project1` inside:
 
 ## Project Outcome
-💻 Local server environment successfully set up using WAMP.
-📝 Basic PHP project created and tested locally.
-🔄 Version control configured for collaborative development and future updates.
+- 💻 Local server environment successfully set up using WAMP.
+- 📝 Basic PHP project created and tested locally.
+- 🔄 Version control configured for collaborative development and future updates.
+
+## Created by Mithali
